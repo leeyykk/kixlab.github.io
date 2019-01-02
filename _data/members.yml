@@ -160,7 +160,7 @@ positions:
       - name: Nyoungwoo Lee
         lastName: Lee
         email: leenw2@kaist.ac.kr
-        career: Research Intern
+        carrer: Research Intern
         img: "nyoungwoo.jpg"
         site: ""
 
@@ -184,13 +184,6 @@ positions:
         career: Research Intern
         img: "jaeyoon.jpg"
         site: "https://jaeyoon.io"
-
-      - name: Keon Lee
-        lastName: Lee
-        email: rjsdlwwkd@kaist.ac.kr
-        career: Research Intern
-        img: "keon.jpg"
-        site: ""
 
   - positionName: Staff
     positionMembers:
